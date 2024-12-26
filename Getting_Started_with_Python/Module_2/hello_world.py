@@ -1,2 +1,2 @@
-message = "hello world"
+message = "go blue"
 print(message)
